@@ -4,6 +4,12 @@ Your Homebrew tools are how you extend your software ecosystem. These are mine ð
 
 ## Installation
 
+* [HashiCorp](https://github.com/hashicorp)-related projects:
+
+  ```console
+  $ brew install amalchuk/tools/packer
+  ```
+
 * [Tart](https://github.com/openai/tart)-related projects:
 
   ```console
